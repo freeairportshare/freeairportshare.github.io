@@ -32,7 +32,7 @@ def fib(n):
     print()
 fib(1000)
 ```
-- 高速链接1
+- 高速链接1: 
 ```text
 def fib(n):
     a, b = 0, 1
