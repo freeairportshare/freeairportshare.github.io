@@ -2,7 +2,6 @@
 title: 2025年1月4日|最高速度23M/S，2025最新Shadowrocket/V2ray/SSR/Clash免费节点高速订阅机场
 sidebar: false
 author: freeairportshare@gmail.com
-index_img: https://fluid.s3.bitiful.net/hello-fluid/cover.png?w=480&fmt=webp
 category: 免费机场
 tags:
   - 免费机场
@@ -22,7 +21,7 @@ sticky: 1
 ## 订阅链接
 
 #### clash订阅链接
-- 高速链接1
+- 订阅链接1
 ```text
 def fib(n):
     a, b = 0, 1
@@ -32,7 +31,7 @@ def fib(n):
     print()
 fib(1000)
 ```
-- 高速链接1: 
+- 订阅链接2 
 ```text
 def fib(n):
     a, b = 0, 1
@@ -46,7 +45,7 @@ fib(1000)
 
 
 #### v2ray订阅链接:
-- 高速链接1
+- 订阅链接1
 ```text
 def fib(n):
     a, b = 0, 1
