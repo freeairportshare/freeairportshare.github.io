@@ -32,3 +32,4 @@ docs/build/
 .DS_Store
 Thumbs.db
 public/
+db.json
