@@ -381,3 +381,4 @@ about:
   icons:
     - { class: 'iconfont icon-telegram-fill', link: 'https://t.me/freeairportshare', tip: 'telegram' }
 
+custom_head: '<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-RDZ3DFDPQ8"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "G-RDZ3DFDPQ8"); </script>'
